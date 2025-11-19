@@ -26,10 +26,10 @@ GitHub Pages	Deployment
 
 🖼️ Screenshots
 
-<img src="https://github.com/mrchipsmaruf/web-dev-portfolio/blob/main/Screenshot%202025-11-19%20121846.png" width="600"/>
-<img src="https://github.com/mrchipsmaruf/web-dev-portfolio/blob/main/Screenshot%202025-11-19%20121855.png" width="600"/>
-<img src="https://github.com/mrchipsmaruf/web-dev-portfolio/blob/main/Screenshot%202025-11-19%20121916.png" width="600"/>
-<img src="https://github.com/mrchipsmaruf/web-dev-portfolio/blob/main/Screenshot%202025-11-19%20121925.png" width="600"/>
+<img src="https://github.com/mrchipsmaruf/web-dev-portfolio/blob/main/Screenshot%202025-11-19%20121846.png" width="400"/>
+<img src="https://github.com/mrchipsmaruf/web-dev-portfolio/blob/main/Screenshot%202025-11-19%20121855.png" width="400"/>
+<img src="https://github.com/mrchipsmaruf/web-dev-portfolio/blob/main/Screenshot%202025-11-19%20121916.png" width="400"/>
+<img src="https://github.com/mrchipsmaruf/web-dev-portfolio/blob/main/Screenshot%202025-11-19%20121925.png" width="400"/>
 
 
 👨‍💻 Author
